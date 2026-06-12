@@ -9,6 +9,12 @@ tendencias, volatilidad y características del mercado.
 Este proyecto fue desarrollado como parte de mi portfolio para la 
 Tecnicatura en Ciencia de Datos.
 
+## Dashboard interactivo 🚀
+
+Podés ver el dashboard en vivo sin instalar nada:
+
+👉 [Ver dashboard](https://bitcoin-analysis-santiago.streamlit.app)
+
 ## Preguntas que responde el análisis
 - ¿Cómo evolucionó el precio de Bitcoin a lo largo de los años?
 - ¿Cuáles fueron los períodos de mayor volatilidad?
